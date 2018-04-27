@@ -403,7 +403,7 @@ class PostemIpsum_Admin {
 						}
 
 						// Add Featured Image to Post
-						$image_url = 'https://dummyimage.com/' . $image_w . 'x' . $image_w . '/' . $bg_color . '/fff/&text=Postem+Ipsum+rules';
+						$image_url = 'https://dummyimage.com/' . $image_w . 'x' . $image_h . '/' . $bg_color . '/fff/&text=Postem+Ipsum+rules';
 
 						$image_name = $title . '.png';
 						$upload_dir = wp_upload_dir(); // Set upload folder
