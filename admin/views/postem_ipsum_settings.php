@@ -3,6 +3,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 ?>
+
 <div id="wpbody" role="main">
     <div id="wpbody-content" aria-label="Main content" tabindex="0" style="overflow: hidden;">
         <h1><?php _e( "Postem Ipsum", POSTEM_IPSUM_TEXT_DOMAIN ); ?></h1>

@@ -1,5 +1,5 @@
 === Postem Lipsun===
-Contributors: franciscopalacios, softmixt
+Contributors: franciscopalacios,softmixt
 Tags: admin, dummy content, dummy data, Woocommerce dummy data, generator, lorem ipsun
 Requires at least: 4.7
 Tested up to: 4.7
